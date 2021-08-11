@@ -21,3 +21,5 @@
 * Storage: KimMiDi MBW-T900 256GB M.2 SATA SSD
 
 <img src="about-this-mac.png" width=640>
+
+[Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
